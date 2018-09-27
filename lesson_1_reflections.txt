@@ -1,0 +1,23 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+Ela mostra a diferença entre os dois arquivos, assim posso comparar com mais facilidade as linhas diferentes e encontrar o problema
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+Posso voltar para uma versão específica caso queira executar algum teste ou a versão atual esteja com problema
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Temos que dosar para que as versões não fiquem muito grandes entre si nem muito curtas de forma que dificulte o entendimento das diferenças entre versões
+
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit,
+enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+Porque podemos criar um pacote de arquivos que funcionam quando estão em um conjunto específico, ou seja, ele considera os aquivos que são dependentes para seu funcionamento
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+git log - verifico todas as versões e o git diff mostra as alterações de uma versão para outra
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+Através da funcionalidade checkout consigo verificar os códigos anteriores que por ventura não continha algum bug
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+versionar projetos udacit
