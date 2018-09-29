@@ -1,23 +1,25 @@
-Como a visualizaÁ„o de um diff entre duas versıes de um arquivo ajuda vocÍ a ver o bug que foi introduzido?
-Ela mostra a diferenÁa entre os dois arquivos, assim posso comparar com mais facilidade as linhas diferentes e encontrar o problema
+Como a visualiza√ß√£o de um diff entre duas vers√µes de um arquivo ajuda voc√™ a ver o bug que foi introduzido?
+Ela mostra a diferen√ßa entre os dois arquivos, assim posso comparar com mais facilidade as linhas diferentes e encontrar o problema
 
-Como ter f·cil acesso a todo o histÛrico de um arquivo pode torn·-lo um programador mais eficiente no longo prazo?
-Posso voltar para uma vers„o especÌfica caso queira executar algum teste ou a vers„o atual esteja com problema
+Como ter f√°cil acesso a todo o hist√≥rico de um arquivo pode torn√°-lo um programador mais eficiente no longo prazo?
+Posso voltar para uma vers√£o espec√≠fica caso queira executar algum teste ou a vers√£o atual esteja com problema
 
-Na sua opini„o, quais s„o os prÛs e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento autom·tico de versıes, como no Google Docs?
+Na sua opini√£o, quais s√£o os pr√≥s e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento autom√°tico de vers√µes, como no Google Docs?
 
-Temos que dosar para que as versıes n„o fiquem muito grandes entre si nem muito curtas de forma que dificulte o entendimento das diferenÁas entre versıes
+Temos que dosar para que as vers√µes n√£o fiquem muito grandes entre si nem muito curtas de forma que dificulte o entendimento das diferen√ßas entre vers√µes
 
 
-Por que vocÍ acha que alguns sistemas de controle de vers„o, como o Git, permitem salvar v·rios arquivos em um commit,
+Por que voc√™ acha que alguns sistemas de controle de vers√£o, como o Git, permitem salvar v√°rios arquivos em um commit,
 enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
-Porque podemos criar um pacote de arquivos que funcionam quando est„o em um conjunto especÌfico, ou seja, ele considera os aquivos que s„o dependentes para seu funcionamento
+Porque podemos criar um pacote de arquivos que funcionam quando est√£o em um conjunto espec√≠fico, ou seja, ele considera os aquivos que s√£o dependentes para seu funcionamento
 
-Como usar os comandos git log e git diff para visualizar o histÛrico dos arquivos?
-git log - verifico todas as versıes e o git diff mostra as alteraÁıes de uma vers„o para outra
+Como usar os comandos git log e git diff para visualizar o hist√≥rico dos arquivos?
+git log - verifico todas as vers√µes e o git diff mostra as altera√ß√µes de uma vers√£o para outra
 
-De que modo o controle de vers„o pode dar a vocÍ mais seguranÁa para fazer alteraÁıes que podem danificar algo?
-AtravÈs da funcionalidade checkout consigo verificar os cÛdigos anteriores que por ventura n„o continha algum bug
+De que modo o controle de vers√£o pode dar a voc√™ mais seguran√ßa para fazer altera√ß√µes que podem danificar algo?
+Atrav√©s da funcionalidade checkout consigo verificar os c√≥digos anteriores que por ventura n√£o continha algum bug
 
-Agora que vocÍ j· configurou a sua ·rea de trabalho, vocÍ quer usar o Git para quÍ?
+Agora que voc√™ j√° configurou a sua √°rea de trabalho, voc√™ quer usar o Git para qu√™?
 versionar projetos udacity
+
+teste pull
