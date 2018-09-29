@@ -22,4 +22,4 @@ Através da funcionalidade checkout consigo verificar os códigos anteriores que
 Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 versionar projetos udacity
 
-teste pull
+teste pull no arquivo 1
