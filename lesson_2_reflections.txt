@@ -1,5 +1,5 @@
-O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+O que acontece ao iniciar um repositÃ³rio? Por que vocÃª precisa fazer isso?
 Cria a pasta .git para armazenar metadados
 
-Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
-organiza os arquivos alterados que vão em um comit
+Em que se difere a Ã¡rea de preparaÃ§Ã£o do diretÃ³rio de trabalho e do repositÃ³rio? Qual valor vocÃª acha que ela oferece?
+organiza os arquivos alterados que vÃ£o em um commit
