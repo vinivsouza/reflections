@@ -20,4 +20,4 @@ De que modo o controle de versão pode dar a você mais segurança para fazer alter
 Através da funcionalidade checkout consigo verificar os códigos anteriores que por ventura não continha algum bug
 
 Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
-versionar projetos udacit
+versionar projetos udacity
